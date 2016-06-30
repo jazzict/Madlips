@@ -1,0 +1,49 @@
+label
+{
+  float: left;
+  width: 300px;
+}
+
+form p
+{
+  clear: left;
+}
+
+input[type="text"]
+{
+  width: 250px;
+}
+div.all{
+	margin-left: auto;
+	margin-right: auto;
+	width: 960px;
+	color: black;
+	background-color: white;
+}
+li{
+	display: inline;
+	padding: 10px;
+
+}
+body{
+		background-color: grey;
+
+}
+ul{
+	background-color: red;
+}
+h1{
+	margin-left: 475px;
+}
+@font-face {
+    font-family: 'cantate_beveledregular';
+    src: url('cantate_beveled-webfont.eot');
+    src: url('cantate_beveled-webfont.eot?#iefix') format('embedded-opentype'),
+         url('cantate_beveled-webfont.woff2') format('woff2'),
+         url('cantate_beveled-webfont.woff') format('woff'),
+         url('cantate_beveled-webfont.ttf') format('truetype'),
+         url('cantate_beveled-webfont.svg#cantate_beveledregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}

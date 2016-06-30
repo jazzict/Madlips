@@ -1,0 +1,102 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+@font-face {
+    font-family: 'cantate';
+    src: url('Font/cantate_beveled-webfont.eot');
+    src: url('Font/cantate_beveled-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Font/cantate_beveled-webfont.woff2') format('woff2'),
+         url('Font/cantate_beveled-webfont.woff') format('woff'),
+         url('Font/cantate_beveled-webfont.ttf') format('truetype'),
+         url('Font/cantate_beveled-webfont.svg#cantate_beveledregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+ul{
+	background-color: darkred;
+	padding: 10px;
+	font-size: 25px;
+	color: white;
+
+}
+
+div.all{
+	background-color: white;
+}
+
+h1 {
+	font-family: cantate;
+	color: white;
+	font-size: 400%;
+	padding-bottom: 30px;
+	padding-top: 30px;
+}
+
+body {
+	background-color: Dimgray;
+	margin: auto;
+	padding: auto;
+	width: 960px;
+}
+
+li {
+	display: inline;
+	text-decoration: none;
+	margin-right: 100px;
+}
+
+a{
+	color: white;
+	font-size: 175%;
+	text-decoration: none;
+}
+
+p{
+	padding: 10px;
+	font-size: 125%;
+}
+
+input{
+	display: inline;
+}
+W
+label
+{
+  float: left;
+  width: 300px;
+}
+
+form p
+{
+  clear: left;
+}
+
+input[type="text"]
+{
+  width: 250px;
+}
+label
+{
+  float: left;
+  width: 300px;
+}
+
+form p
+{
+  clear: left;
+}
+h2{
+	margin-left: 10px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+a{
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
+}
